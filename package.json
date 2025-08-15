@@ -1,0 +1,24 @@
+{
+  "name": "sass-complete-curse",
+  "version": "1.0.0",
+  "description": "Curso Completo de SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos-Vesta/sass-complete-curse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlos-Vesta/sass-complete-curse/issues"
+  },
+  "homepage": "https://github.com/Carlos-Vesta/sass-complete-curse#readme",
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.90.0"
+  }
+}
